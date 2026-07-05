@@ -1,0 +1,47 @@
+{
+  "clusters": {
+    "cluster_00": [
+      {
+        "filename": "person_01_0.jpg",
+        "original_path": "/content/dataset/person_identification/person_01_0.jpg",
+        "confidence": 84.8,
+        "detection_confidence": 0.896
+      },
+      {
+        "filename": "person_01_1.jpg",
+        "original_path": "/content/dataset/person_identification/person_01_1.jpg",
+        "confidence": 84.8,
+        "detection_confidence": 0.999
+      }
+    ],
+    "cluster_01": [
+      {
+        "filename": "person_02_0.jpg",
+        "original_path": "/content/dataset/person_identification/person_02_0.jpg",
+        "confidence": 81.88,
+        "detection_confidence": 1.0
+      },
+      {
+        "filename": "person_02_1.jpg",
+        "original_path": "/content/dataset/person_identification/person_02_1.jpg",
+        "confidence": 81.88,
+        "detection_confidence": 1.0
+      }
+    ],
+    "cluster_02": [
+      {
+        "filename": "person_03_0.jpg",
+        "original_path": "/content/dataset/person_identification/person_03_0.jpg",
+        "confidence": 89.77,
+        "detection_confidence": 0.995
+      },
+      {
+        "filename": "person_03_1.jpg",
+        "original_path": "/content/dataset/person_identification/person_03_1.jpg",
+        "confidence": 89.77,
+        "detection_confidence": 0.995
+      }
+    ]
+  },
+  "skipped_no_face_detected": []
+}

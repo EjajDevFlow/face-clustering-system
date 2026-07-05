@@ -1,0 +1,7 @@
+path,filename,det_confidence,cluster_raw,cluster_id,confidence
+/content/dataset/person_identification/person_01_0.jpg,person_01_0.jpg,0.8956495523452759,0,0,84.8
+/content/dataset/person_identification/person_01_1.jpg,person_01_1.jpg,0.9985964894294739,0,0,84.8
+/content/dataset/person_identification/person_02_0.jpg,person_02_0.jpg,0.9999243021011353,1,1,81.88
+/content/dataset/person_identification/person_02_1.jpg,person_02_1.jpg,0.9996277093887329,1,1,81.88
+/content/dataset/person_identification/person_03_0.jpg,person_03_0.jpg,0.9954142570495605,2,2,89.77
+/content/dataset/person_identification/person_03_1.jpg,person_03_1.jpg,0.9952465891838074,2,2,89.77
